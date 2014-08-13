@@ -1,0 +1,14 @@
+{
+    "name": "seasoul/yii",
+    "description": "myexperiment",
+    "authors": [
+        {
+            "name": "SeaSoul",
+            "email": "SeaSoul1984@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
